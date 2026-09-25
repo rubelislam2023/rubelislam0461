@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="MD Rubel Islam">
+  <rect width="32" height="32" rx="7" fill="#07111C"/>
+  <path fill="#F3F6FB" fill-rule="evenodd" d="M8.2 6.4h7.1c3.55 0 5.85 2.05 5.85 5.05 0 2.25-1.25 3.95-3.25 4.65L21.9 25.6h-3.7l-3.55-8.15H11.7v8.15H8.2V6.4zm3.5 2.85v4.55h3.35c1.55 0 2.5-.8 2.5-2.25s-.95-2.3-2.5-2.3H11.7z"/>
+  <rect x="8.2" y="27.1" width="9.2" height="1.7" rx="0.85" fill="#5DDEF5"/>
+  <rect x="22.6" y="23.2" width="2.6" height="2.6" rx="0.5" fill="#B7A6FF"/>
+</svg>
